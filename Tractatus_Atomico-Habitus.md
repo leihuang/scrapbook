@@ -4,7 +4,7 @@ The ideas of James Clear's *Atomic Habits*, set in the form of Wittgenstein's *T
 
 ---
 
-## 1 — The self is the sum of its repetitions.
+## 1. The self is the sum of its repetitions.
 
 - **1.1** What a person does once is an event. What a person does daily is a person.
 - **1.2** There are three depths at which change may be attempted: the outcome, the process, the identity.
@@ -22,7 +22,7 @@ The ideas of James Clear's *Atomic Habits*, set in the form of Wittgenstein's *T
 
 ---
 
-## 2 — Change is not an event but a rate.
+## 2. Change is not an event but a rate.
 
 - **2.1** A small margin, taken once, is indistinguishable from nothing. Taken enough times, it is indistinguishable from transformation.
   - **2.1.1** Improvement compounds. So does decay. Neither announces itself at the time.
@@ -41,7 +41,7 @@ The ideas of James Clear's *Atomic Habits*, set in the form of Wittgenstein's *T
 
 ---
 
-## 3 — A habit is a solved problem stored in the body.
+## 3. A habit is a solved problem stored in the body.
 
 - **3.1** The mind solves a problem once and thereafter delegates it.
   - **3.1.1** Automaticity is the reward for repetition and also its price: what runs without attention runs unexamined.
@@ -56,7 +56,7 @@ The ideas of James Clear's *Atomic Habits*, set in the form of Wittgenstein's *T
 
 ---
 
-## 4 — What is obvious, attractive, easy, and satisfying will be done.
+## 4. What is obvious, attractive, easy, and satisfying will be done.
 
 What is invisible, unappealing, difficult, and unsatisfying will not. Four laws, one per link of the loop.
 
@@ -106,7 +106,7 @@ What is invisible, unappealing, difficult, and unsatisfying will not. Four laws,
 
 ---
 
-## 5 — The environment is the invisible hand.
+## 5. The environment is the invisible hand.
 
 - **5.1** One does not choose among all possible actions, only among visible ones.
   - **5.1.1** Every environment is a collection of cues, whether or not it was designed as one.
@@ -122,7 +122,7 @@ What is invisible, unappealing, difficult, and unsatisfying will not. Four laws,
 
 ---
 
-## 6 — Talent sets the range. Habits decide the position within it.
+## 6. Talent sets the range. Habits decide the position within it.
 
 - **6.1** Choose the game in which your nature is already an advantage. Effort spent against one's grain buys less.
   - **6.1.1** Inheritance explains differences between people. It does none of their work.
@@ -147,6 +147,6 @@ What is invisible, unappealing, difficult, and unsatisfying will not. Four laws,
 
 ---
 
-## 7 — What cannot be sustained by will must be arranged by design.
+## 7. What cannot be sustained by will must be arranged by design.
 
 > **Explanation.** The whole book reduces to this. Motivation is real but unreliable, and an architecture founded on it collapses precisely on the days that decide the outcome. Everything above is the work of making the desired behavior the default, so that on the day you have nothing left to give, nothing is required.
