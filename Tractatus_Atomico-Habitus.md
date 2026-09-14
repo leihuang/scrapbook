@@ -1,6 +1,6 @@
 # Tractatus Atomico-Habitus
 
-*The ideas of James Clear's* Atomic Habits*, set in the form of Wittgenstein's* Tractatus.
+The ideas of James Clear's* Atomic Habits*, set in the form of Wittgenstein's *Tractatus*.
 
 ---
 
